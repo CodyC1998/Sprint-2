@@ -1,0 +1,66 @@
+[
+    {
+        "fName": "John",
+        "lName": "Doe",
+        "birthdate": "1990-01-01",
+        "gender": "male",
+        "address": "111 Main St.",
+        "city": "St. John's",
+        "province": "NL",
+        "postalCode": "A1A 1A1",
+        "email": "johndoe@example.com",
+        "phone": "(709) 555-1234"
+    },
+
+    {
+        "fName": "Sally",
+        "lName": "Anderson",
+        "birthdate": "1994-07-12",
+        "gender": "female",
+        "address": "123 Water St.",
+        "city": "St. John's",
+        "province": "NL",
+        "postalCode": "A1A 1A1",
+        "email": "sallyA@example.com",
+        "phone": "(709) 123-5555"
+    },
+
+    {
+        "fName": "Jason",
+        "lName": "Script",
+        "birthdate": "2001-04-25",
+        "gender": "non-binary",
+        "address": "321 Coder Rd.",
+        "city": "Halifax",
+        "province": "NS",
+        "postalCode": "A1B 2C3",
+        "email": "jsonscript@example.com",
+        "phone": "(902) 555-1234"
+    },
+
+    {
+        "fName": "Cody",
+        "lName": "Collins",
+        "birthdate": "1998-07-16",
+        "gender": "male",
+        "address": "111 Main St.",
+        "city": "Hare Bay",
+        "province": "NL",
+        "postalCode": "A1A 1A1",
+        "email": "codyc@example.com",
+        "phone": "(709) 555-1234"
+    },
+
+    {
+        "fName": "Bobby",
+        "lName": "Apple",
+        "birthdate": "1984-01-17",
+        "gender": "male",
+        "address": "111 Airport Blvd.",
+        "city": "Gander",
+        "province": "NL",
+        "postalCode": "A1A 1A1",
+        "email": "bobbingapples@example.com",
+        "phone": "(709) 234-5643"
+    }
+]
